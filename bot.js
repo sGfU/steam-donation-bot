@@ -22,7 +22,7 @@ client.logOn(logOnOptions);
 client.on('loggedOn', () => {
         console.log('Logged into Steam!');
 
-        client.setPersona(SteamUser.Steam.EPersonaState.Online, 'doing some sneaky coding');
+        client.setPersona(SteamUser.Steam.EPersonaState.Online);
 });
 
 client.on('webSession', (sessionid, cookies) => {
