@@ -3,7 +3,7 @@ First bit of coding I have ever done with the steam API, free release for everyo
 
 ****AS WITH ALL OPEN SOURCE CODE LOOK THROUGH IT FOR BACK DOORS AND OTHER THINGS!!!!!****
 
-Programs you need to run 
+Programs you need to run the bot
 
 Nodejs https://nodejs.org/en/
 
@@ -35,7 +35,7 @@ Nodejs https://nodejs.org/en/
 
 14. And once you are done type in this command:
 
-15.node bot.js
+15. node bot.js
 
 This will start the bot. 
 
